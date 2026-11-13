@@ -1,27 +1,27 @@
 const cardSymbols = [
   {
     name: 'Noite Estrelada',
-    image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail'
+    image: ''
   },
   {
     name: 'Flores de Amendoeira',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUqaIAv9cjfBU8tSW4Cyf_dYzRbS6m7uSZ6cFAFHvm5GVi__wyEO5lDqo&s=10'
+    image: ''
   },
   {
     name: 'Girassóis',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yKF3eBFzwoUGENaBafEDtix9Ez6jV9liUf_kmLpvvw&s'
+    image: ''
   },
   {
     name: 'Os Comedores de Batata',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55McxVEy6DQVJYEtgcq99XZCt_JCM1FYJwhk29mA5Rg&s=10'
+    image: ''
   },
   {
     name: 'Campo de Trigo com Corvos',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw05Xs9EFqWQf67hnflxne-WspXBdCVh-SJ6-0TnD2-g&s=10'
+    image: ''
   },
   {
     name: 'Oliveiras',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uE0YYjZSF4Wb4Tx1l8RafrV2f4_X7dV6NKCg9TiNw&s=10'
+    image: ''
   }
 ];
 
